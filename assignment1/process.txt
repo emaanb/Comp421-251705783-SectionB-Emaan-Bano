@@ -1,0 +1,51 @@
+PID   PPID   Name             Arch  Session  User                       Path
+---   ----   ----             ----  -------  ----                       ----
+ 0 	0 	[System Process]
+ 4 	0 	System          	x64   0
+ 284   4 	smss.exe        	x64   0    	NT AUTHORITY\SYSTEM       	\SystemRoot\System32\smss.exe
+ 368   352   csrss.exe       	x64   0    	NT AUTHORITY\SYSTEM       	C:\Windows\system32\csrss.exe
+ 384   520   svchost.exe     	x64   0    	NT AUTHORITY\NETWORK SERVICE
+ 420   352   wininit.exe     	x64   0    	NT AUTHORITY\SYSTEM       	C:\Windows\system32\wininit.exe
+ 428   412   csrss.exe       	x64   1    	NT AUTHORITY\SYSTEM       	C:\Windows\system32\csrss.exe
+468   412    winlogon.exe     x64   1        NT AUTHORITY\SYSTEM        C:\Windows\system32\winlogon.exe
+520   420    services.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\services.exe
+536   420    lsass.exe        x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\lsass.exe
+544   420   lsm.exe         	x64   0    	NT AUTHORITY\SYSTEM       	C:\Windows\system32\lsm.exe 
+644   520    svchost.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\svchost.exe
+708   520   VBoxService.exe 	x64   0    	NT AUTHORITY\SYSTEM       	C:\Windows\System32\VBoxService.exe
+ 776   520   svchost.exe     	x64   0    	NT AUTHORITY\NETWORK SERVICE
+ 868   520   svchost.exe     	x64   0    	NT AUTHORITY\LOCAL SERVICE
+ 916   520   svchost.exe     	x64   0    	NT AUTHORITY\SYSTEM
+1024  928    explorer.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\explorer.exe
+1056  928    conhost.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\conhost.exe
+1100  1044   msdt.exe         x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\msdt.exe
+1184  1072   dwm.exe          x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\dwm.exe
+1240  1124   firefox.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\Mozilla Firefox\firefox.exe
+1280  1220   winver.exe        x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\winver.exe
+1304  1224   cmd.exe          x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\cmd.exe
+1376  1296   iexplore.exe     x64   1        NT AUTHORITY\SYSTEM        C:\Program Files\Internet Explorer\iexplore.exe
+1428  1336   powershell.exe   x64   1        NT AUTHORITY\SYSTEM        C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+1492  1440   notepad.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\system32\notepad.exe
+1532  1460   acrotray.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Program Files (x86)\Adobe\Acrobat\Acrobat\acrotray.exe
+1600  1532   vlc.exe          x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\VideoLAN\VLC\vlc.exe
+1672  1604   explorer.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\explorer.exe
+1724  1676   msconfig.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\msconfig.exe
+1804  1700   taskmgr.exe      x64   1        NT AUTHORITY\SYSTEM        C:\Windows\system32\taskmgr.exe
+1908  1808   cmd.exe          x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\cmd.exe
+1960  1892   regedit.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\regedit.exe
+2036  1916   mspmsnsv.exe     x64   0        NT AUTHORITY\SYSTEM        C:\Windows\System32\mspmsnsv.exe
+2132  2024   winword.exe      x64   0        NT AUTHORITY\SYSTEM        C:\Program Files\Microsoft Office\root\OfficeXX\winword.exe
+ 2192  368   conhost.exe     	x64   0    	VAGRANT-2008R2\sshd_server	C:\Windows\system32\conhost.exe
+ 2208  2164  sshd.exe        	x64   0    	VAGRANT-2008R2\sshd_server	C:\Program Files\OpenSSH\usr\sbin\ss
+                                                                          	hd.exe
+ 2248  520   svchost.exe     	x64   0    	NT AUTHORITY\LOCAL SERVICE
+ 2272  520   snmp.exe        	x64   0    	NT AUTHORITY\SYSTEM
+ 2316  520   tomcat8.exe     	x64   0    	NT AUTHORITY\SYSTEM       	C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.0.33\
+                                                                          	bin\tomcat8.exe
+ 2324  1380  dcrotatelogs.exe	x86   0    	NT AUTHORITY\LOCAL SERVICE	C:\ManageEngine\DesktopCentral_Serve
+                                                                          	r\apache\bin\dcrotatelogs.exe
+ 2332  368   conhost.exe     	x64   0    	NT AUTHORITY\LOCAL SERVICE	C:\Windows\system32\conhost.exe
+ 2384  368   conhost.exe     	x64   0    	NT AUTHORITY\SYSTEM       	C:\Windows\system32\conhost.exe
+ 2420  1380  dcserverhttpd.exe   x86   0    	NT AUTHORITY\LOCAL SERVICE	C:\ManageEngine\DesktopCentral_Serve
+
+
